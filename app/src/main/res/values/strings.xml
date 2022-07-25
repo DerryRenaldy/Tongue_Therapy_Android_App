@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tongue Therapy</string>
+    <string name="university">Powered By Maranatha Christian University</string>
+    <string name="welcoming">Tongue Exercise Welcome you!</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="no_account"> <font fgcolor='black'> Not Have Account? </font> <font fgcolor='#0044CC'><b>Sign Up</b></font></string>
+    <string name="forget_password"><font fgcolor='#0044CC'><b>Forgot password?</b></font></string>
+    <string name="capt_login">Login to your account</string>
+    <string name="but_switch_reg">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tongue_press">The movement is done by pressing the middle of the tongue to the hard palate (PRESS SENSOR 2).</string>
+    <string name="tongue_slide1">The movement is done by pressing the tip of the tongue to the front teeth (PRESS SENSOR 1).</string>
+    <string name="tongue_slide2">The movement is done by pressing the tip of the tongue to the middle of the hard palate (PRESS SENSOR 2).</string>
+
+    <string-array name="typeExercise">
+        <item>Tongue Press</item>
+        <item>Tongue Slide (ujung)</item>
+        <item>Tongue Slide (tengah)</item>
+    </string-array>
+</resources>

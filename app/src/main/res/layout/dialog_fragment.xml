@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp">
+
+    <ScrollView
+        android:layout_width="300dp"
+        android:layout_height="440dp">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="440dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TOOL GUIDE"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="268dp"
+                android:layout_height="133dp"
+                android:layout_gravity="center_horizontal"
+
+                android:src="@drawable/tool">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="EXERCISE GUIDE"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Tongue Press"
+                android:padding="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="218dp"
+                android:layout_height="133dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/tonguepress">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tongue_press"
+                android:layout_gravity="center_vertical|end"
+                android:padding="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Tongue Slide 1"
+                android:padding="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="218dp"
+                android:layout_height="133dp"
+                android:layout_gravity="center_horizontal"
+
+                android:src="@drawable/tongueslide1">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tongue_slide1"
+                android:layout_gravity="center_vertical|end"
+                android:padding="15dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Tongue Slide 2"
+                android:padding="15dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="218dp"
+                android:layout_height="133dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/tongueslide2">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tongue_slide2"
+                android:layout_gravity="center_vertical|end"
+                android:padding="15dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

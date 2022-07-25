@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317678834724",
+    "project_id": "tongue-therapy",
+    "storage_bucket": "tongue-therapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317678834724:android:51fea9ffd50380c815b4b1",
+        "android_client_info": {
+          "package_name": "com.example.tonguetherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317678834724-es8asbe1i6gsb36rpj3lp5tc3tr388c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdD2tsgSnNAM26oYAtBfbavoxxRdtvgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317678834724-es8asbe1i6gsb36rpj3lp5tc3tr388c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
